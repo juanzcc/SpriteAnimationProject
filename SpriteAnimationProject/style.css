@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(228, 148, 79);
+    overflow: hidden;
+}
+
+canvas{
+    height: 500px;
+}
